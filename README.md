@@ -9,11 +9,7 @@
 
 # 系统构想
 
-系统界面如图所示。
-
-![!\[\](/home/liyunzhe/Desktop/work/数据库实现实验/view.jpg)][1]
-
-用户输入一条SQL语句，点击"DO IT!"按钮，就执行对应的SQL语句。
+系统构想为：用户输入一条SQL语句，点击"DO IT!"按钮，就执行对应的SQL语句。
 
 由上述应用可知，系统需要完成的工作包括编译、执行、存储。编译需要获取SQL语句中提供的信息，执行计算出结果，而存储则将执行的结果保存下来。
 
@@ -1910,6 +1906,3 @@ delete函数能够删除元组，就直接将当前位置置为空串就好。
 联系方式: liyunzhe@whu.edu.cn
 
 版权声明: Copyright (c) 2020 Li Yunzhe 
-
-
-[1]: http://www.liyunzhe.cn/usr/uploads/2020/01/3086537575.jpg
